@@ -55,7 +55,8 @@ CareerConnect is a full-stack job portal application built using the **MERN stac
 ![New Company](./screenshots/Company3.png)
 
 ### 🔹 Applicant Dashboard
-![Applicant Dashboard](./screenshots/applicant.png)
+
+![Applicant Dashboard](./screenshots/applicant2.png)
 
 ### 🔹 New Job
 ![New Job](./screenshots/Job2.png)
